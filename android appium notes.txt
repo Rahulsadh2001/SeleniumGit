@@ -1,0 +1,1 @@
+19f1df23 adb device key
